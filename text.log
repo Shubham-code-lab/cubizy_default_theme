@@ -1,0 +1,40 @@
+prefix2022/05/16 10:59:17 utility module initiating
+prefix2022/05/16 10:59:17 utility module initiated
+prefix2022/05/16 10:59:17 vue module initiating
+prefix2022/05/16 10:59:17 vue module initiated
+prefix2022/05/16 10:59:17 runing http server : localhost:80
+prefix2022/05/16 11:13:52 utility module initiating
+prefix2022/05/16 11:13:52 utility module initiated
+prefix2022/05/16 11:13:52 vue module initiating
+prefix2022/05/16 11:13:52 vue module initiated
+prefix2022/05/16 11:13:52 runing http server : localhost:90
+prefix2022/05/16 11:34:09 utility module initiating
+prefix2022/05/16 11:34:09 utility module initiated
+prefix2022/05/16 11:34:09 vue module initiating
+prefix2022/05/16 11:34:09 vue module initiated
+prefix2022/05/16 11:34:09 runing http server : localhost:80
+prefix2022/05/16 11:34:22 File Not Exists /home.vue.js vue\home.vue /home.vue.js assets vue
+prefix2022/05/16 11:34:22 File Not Exists /login.vue.js vue\login.vue /login.vue.js assets vue
+prefix2022/05/16 11:34:22 File Not Exists /product_quick_view.vue.js vue\product_quick_view.vue /product_quick_view.vue.js assets vue
+prefix2022/05/16 11:34:22 File Not Exists /footer.vue.js vue\footer.vue /footer.vue.js assets vue
+prefix2022/05/16 11:34:22 File Not Exists /handheldtoolbar.vue.js vue\handheldtoolbar.vue /handheldtoolbar.vue.js assets vue
+prefix2022/05/16 11:34:25 File Not Exists /product.vue.js vue\product.vue /product.vue.js assets vue
+prefix2022/05/16 11:34:25 File Not Exists /autocomplete.vue.js vue\autocomplete.vue /autocomplete.vue.js assets vue
+prefix2022/05/16 11:34:26 File Not Exists /product_card_vertical.vue.js vue\product_card_vertical.vue /product_card_vertical.vue.js assets vue
+prefix2022/05/16 11:39:18 File Not Exists /home.vue.js vue\home.vue /home.vue.js assets vue
+prefix2022/05/16 11:39:18 File Not Exists /login.vue.js vue\login.vue /login.vue.js assets vue
+prefix2022/05/16 11:39:18 File Not Exists /product_quick_view.vue.js vue\product_quick_view.vue /product_quick_view.vue.js assets vue
+prefix2022/05/16 11:39:18 updating  vue\header.vue
+prefix2022/05/16 11:39:18 File Not Exists /handheldtoolbar.vue.js vue\handheldtoolbar.vue /handheldtoolbar.vue.js assets vue
+prefix2022/05/16 11:39:18 File Not Exists /footer.vue.js vue\footer.vue /footer.vue.js assets vue
+prefix2022/05/16 11:39:18 File Not Exists /product.vue.js vue\product.vue /product.vue.js assets vue
+prefix2022/05/16 11:39:18 File Not Exists /autocomplete.vue.js vue\autocomplete.vue /autocomplete.vue.js assets vue
+prefix2022/05/16 11:39:21 File Not Exists /product_card_vertical.vue.js vue\product_card_vertical.vue /product_card_vertical.vue.js assets vue
+prefix2022/05/16 11:46:19 File Not Exists /home.vue.js vue\home.vue /home.vue.js assets vue
+prefix2022/05/16 11:46:19 File Not Exists /login.vue.js vue\login.vue /login.vue.js assets vue
+prefix2022/05/16 11:46:19 File Not Exists /product_quick_view.vue.js vue\product_quick_view.vue /product_quick_view.vue.js assets vue
+prefix2022/05/16 11:46:19 File Not Exists /footer.vue.js vue\footer.vue /footer.vue.js assets vue
+prefix2022/05/16 11:46:19 File Not Exists /handheldtoolbar.vue.js vue\handheldtoolbar.vue /handheldtoolbar.vue.js assets vue
+prefix2022/05/16 11:46:19 File Not Exists /product.vue.js vue\product.vue /product.vue.js assets vue
+prefix2022/05/16 11:46:19 File Not Exists /autocomplete.vue.js vue\autocomplete.vue /autocomplete.vue.js assets vue
+prefix2022/05/16 11:46:20 File Not Exists /product_card_vertical.vue.js vue\product_card_vertical.vue /product_card_vertical.vue.js assets vue
